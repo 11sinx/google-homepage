@@ -69,13 +69,13 @@ input {
 }
 #top_bar {
 	float:right;
-	width:220px;
+	width:270px;
 	height:50px;
 }
 .topbar {
 	display:inline-block;
 	font:arial,sans-serif;
-	font-size:13px;
+	font-size:14px;
 	color:#757575;
 	width:43px;
 	height:24px;
@@ -94,3 +94,13 @@ input {
 	margin-left:5px;
 }
 #sign_in {
+	background-image: -webkit-linear-gradient(top, rgb(67, 135, 253), rgb(70, 131, 234));
+	border-radius: 2px;
+	text-align:center;
+	color:white;
+	width:80px;
+	height:24px;
+	padding-top:10px;
+	font-weight:bold;
+	margin-left:10px;
+}
