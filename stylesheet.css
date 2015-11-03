@@ -9,3 +9,12 @@
 	padding-top:100px;
 	
 }
+#textbox {
+	width:500px;
+	height:30px;
+	margin-top:-5px;
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid gray;
+	z-index:1;
+}
