@@ -1,10 +1,11 @@
 #logo_div {
-	margin:auto;
-	border:solid red;
-}
-#logo_img {
-    width:450px;
-    height:116px;
 	margin-left:auto;
 	margin-right:auto;
+	width:320px;
+}
+#logo_img {
+    width:320px;
+    height:200px;
+	padding-top:100px;
+	
 }
