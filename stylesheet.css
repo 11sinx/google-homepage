@@ -107,19 +107,28 @@ input {
 
 #footer {
 	display:inline-block;
-	width:1400px;
+	width:100%;
 	height:60px;
 	border:1px solid #e4e4e4;
 	position:absolute;
 	bottom:0;
-	margin-left:-100px;
 	margin-bottom:-20px;
+	margin-left:-10px;
 	background:#f2f2f2;
 	font-size:13px;
 	font-family:arial,sans-serif;
 	color:#757575;
 }
+.footers_r {
+	display:inline-block;
+	margin-top:13px;
+}
 #footer1 {
-	margin-left:120px;
-	margin-top:20px;
+	margin-left:30px;
+}
+#footer2 {
+	margin-left:25px;
+}
+#footer3 {
+	margin-left:25px;
 }
