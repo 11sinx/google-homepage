@@ -119,6 +119,11 @@ input {
 	font-family:arial,sans-serif;
 	color:#757575;
 }
+.footers_l {
+    float:left;
+	display:inline-block;
+	margin-top:13px;
+}
 .footers_r {
 	display:inline-block;
 	margin-top:13px;
@@ -131,4 +136,19 @@ input {
 }
 #footer3 {
 	margin-left:25px;
+}
+#footer4 {
+	margin-left:25px;
+}
+#footer5 {
+	margin-left:25px;
+}
+#footer6 {
+	margin-left:25px;
+}
+#footer_right {
+    clear:right;
+    width:250px;
+    margin-right:-10px;
+    margin-left:auto;
 }
