@@ -18,6 +18,12 @@
 	margin-right:auto;
 	z-index:1;
 }
+#icon{
+    background-image:url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png); 
+    background-repeat: no-repeat; 
+    background-position:480px 7px;
+    background-size:17px 17px;
+}
 input {
 	width:100%;
 	height:30px;
